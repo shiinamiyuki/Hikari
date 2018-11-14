@@ -1,1 +1,2 @@
 # Hikari
+It's crap.
